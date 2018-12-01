@@ -1,0 +1,11 @@
+
+\newcommand{\hint}[1]{
+  \ifthenelse{\boolean{final}}{}{
+\textcolor{green}{   
+	\begin{framed}
+	\noindent
+	\underline{Hint:}\\ \newline
+	#1
+	\end{framed}
+}
+}}

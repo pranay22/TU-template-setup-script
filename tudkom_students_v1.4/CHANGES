@@ -1,0 +1,31 @@
+%======================================================
+% Technische Universitaet Darmstadt
+% Fachbereich Elektrotechnik und Informationstechnik
+% Fachbereich Informatik (Zweitmitglied)
+% Fachgebiet Multimedia Kommunikation (KOM)
+% Prof. Dr.-Ing. Ralf Steinmetz
+%======================================================
+% Official template for student theses
+% Official template for technical reports
+% Inofficial template for PhD theses
+%
+% Use pdfLaTeX (other possible, but not supported)
+% Contact at KOM: Andr\'e Miede (andre.miede@kom...)
+%======================================================
+% Official TUD-LaTeX-files have to be installed:
+% http://exp1.fkp.physik.tu-darmstadt.de/tuddesign/
+% Refer to the manuals and forum for details
+%======================================================
+v0.1 (June 2009)
+ o Initial release
+
+v1.0 (October 2009)
+ o Activated \raggedbottom for better page setup
+ o Decreased font size of page footers
+ o Decreased space between items (itemize, enumerate, description)
+ o Various minor changes and clean-up
+ o [diss] Included support/example for acronyms
+ o [diss] Fixed error on legacy title page
+ 
+ 
+ 
